@@ -1,5 +1,5 @@
 # 💫 About Me:
-Dayz 4k hours<br>Job 0k hours
+Dayz 4k hours<br>
 
 
 # 💻 Tech Stack:
@@ -10,24 +10,3 @@ Dayz 4k hours<br>Job 0k hours
 ![](https://streak-stats.demolab.com/?user=Skalych&theme=shadow_red&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Skalych&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Skalych&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Skalych&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**Skalych/Skalych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
